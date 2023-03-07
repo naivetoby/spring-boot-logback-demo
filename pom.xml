@@ -76,11 +76,4 @@
         </plugins>
     </build>
 
-    <repositories>
-        <repository>
-            <id>gitlab-maven</id>
-            <url>https://git.fewper.com/api/v4/groups/15/-/packages/maven</url>
-        </repository>
-    </repositories>
-
 </project>
