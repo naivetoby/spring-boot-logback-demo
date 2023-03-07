@@ -1,0 +1,10 @@
+server:
+  port: 18080
+
+spring:
+  profiles:
+    active: local
+
+demo:
+  key1: value1
+  key2: value2
